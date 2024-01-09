@@ -61,7 +61,7 @@
 
     #geme {
         width: 300px;
-        height: 500px;
+        height: 100vh;
         border: 1px solid black;
         top: 0;
         margin: auto;
@@ -73,11 +73,11 @@
     .btn {
         display: flex;
         width: 100%;
-        height: 80px;
+        height: 10%;
         background-color: #3a17ff;
         position: absolute;
         align-content: space-between;
-        top: 70%;
+        bottom: 5%;
 
     }
 
